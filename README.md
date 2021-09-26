@@ -68,4 +68,7 @@ However smaller school sizes perform better
 
 Charter schools perform much better than district schools as well
 
-
+## Summary
+1. Removal of the 9th grade scores from the Thomas High School Analysis reduced the average grades for the overall dsitrict
+2. The school's own scores were lowered as well , however they still remained at the top 5 schools
+3. Key grades for the district schools and other school grades remained unaffected beacuse of the change
